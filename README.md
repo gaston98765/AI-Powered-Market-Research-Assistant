@@ -33,9 +33,8 @@ Persistence: JSON-based memory & PDF Export
 
 Prerequisites: Install Ollama and pull your model (ollama pull mistral).
 
-Clone & Setup:
+Setup:
 
-git clone https://github.com/your-username/market-research-assistant.git
 cd market-research-assistant
 python3 -m venv venv
 source venv/bin/activate  # venv\Scripts\activate for Windows
